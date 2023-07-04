@@ -1,0 +1,8 @@
+E:\Becamex\OOPC#\ExOOP\ExOOP\bin\Debug\ExOOP.exe.config
+E:\Becamex\OOPC#\ExOOP\ExOOP\bin\Debug\ExOOP.exe
+E:\Becamex\OOPC#\ExOOP\ExOOP\bin\Debug\ExOOP.pdb
+E:\Becamex\OOPC#\ExOOP\ExOOP\obj\Debug\ExOOP.csproj.AssemblyReference.cache
+E:\Becamex\OOPC#\ExOOP\ExOOP\obj\Debug\ExOOP.csproj.SuggestedBindingRedirects.cache
+E:\Becamex\OOPC#\ExOOP\ExOOP\obj\Debug\ExOOP.csproj.CoreCompileInputs.cache
+E:\Becamex\OOPC#\ExOOP\ExOOP\obj\Debug\ExOOP.exe
+E:\Becamex\OOPC#\ExOOP\ExOOP\obj\Debug\ExOOP.pdb
